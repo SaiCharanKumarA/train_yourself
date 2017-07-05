@@ -1,0 +1,7 @@
+Name: A.Sai Charan Kumar
+DOB: 29-10-1994
+POB: Nandyal
+Age: 23
+Height: 5'7"
+Weight: 79kg
+
