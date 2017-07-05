@@ -1,0 +1,24 @@
+From 998247385dcff04bcb67ea0d1bacead9225ec0ae Mon Sep 17 00:00:00 2001
+From: SaiCharan <saicharan@crowdspots.com>
+Date: Wed, 5 Jul 2017 18:04:10 +0530
+Subject: [PATCH] added first sister
+
+---
+ mybio.txt | 1 +
+ 1 file changed, 1 insertion(+)
+
+diff --git a/mybio.txt b/mybio.txt
+index 02d5e5f..23cd58a 100644
+--- a/mybio.txt
++++ b/mybio.txt
+@@ -1,6 +1,7 @@
+ Name  : A.Sai Charan Kumar
+ Father: A.Ravindranath
+ Mother: A.Sujatha
++Sister: A.Haritha
+ DOB   : 29-10-1994
+ POB   : Nandyal
+ Age   : 23
+-- 
+1.9.1
+
