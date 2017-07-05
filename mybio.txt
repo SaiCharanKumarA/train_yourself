@@ -1,4 +1,5 @@
 Name  : A.Sai Charan Kumar
+Father: A.Ravindranath
 DOB   : 29-10-1994
 POB   : Nandyal
 Age   : 23
