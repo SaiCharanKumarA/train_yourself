@@ -13,3 +13,5 @@ University   : Bits Pilani Hyderabad Campus
 Job: Associate Software Engineer
 POW: Crowdchat
 TOW: Web Development
+
+Hobbies: Movies,Music,Badminton etc...
