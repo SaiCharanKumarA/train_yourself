@@ -1,6 +1,7 @@
 Name  : A.Sai Charan Kumar
 Father: A.Ravindranath
 Mother: A.Sujatha
+Sister: A.Haritha
 DOB   : 29-10-1994
 POB   : Nandyal
 Age   : 23
